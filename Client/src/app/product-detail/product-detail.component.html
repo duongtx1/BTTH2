@@ -1,0 +1,15 @@
+<div *ngIf="product && productContent" class="max-w-md mx-auto bg-white rounded-xl shadow-lg overflow-hidden md:max-w-2xl">
+  <div class="md:flex">
+    <!-- <div class="md:shrink-0">
+      <img class="h-48 w-full object-cover md:w-48" src="{{ productContent.picture || 'assets/default-image.jpg' }}" alt="Product Image">
+    </div> -->
+    <div class="p-8">
+      <h2 class="block mt-1 text-lg leading-tight font-semibold text-gray-900">Mã sản phẩm: {{ productContent.id }}</h2>
+      <p class="mt-2 text-gray-600">Tên sản phẩm: <span class="text-gray-900 font-semibold">{{ productContent.productName }}</span></p>
+      <p class="mt-2 text-gray-600">Đơn giá: <span class="text-green-500 font-semibold">{{ productContent.unitPrice  }} VND</span></p>
+      <p class="mt-2 text-gray-600">Thể loại: <span class="text-gray-900 font-semibold">{{ productContent.category }}</span></p>
+      <p class="mt-4 text-gray-700 leading-relaxed">Mô tả:</p>
+      <p class="mt-1 text-gray-600">{{ productContent.description }}</p>
+    </div>
+  </div>
+</div>

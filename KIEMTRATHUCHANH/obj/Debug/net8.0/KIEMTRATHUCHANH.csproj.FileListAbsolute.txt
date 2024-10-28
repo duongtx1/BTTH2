@@ -1,0 +1,161 @@
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\appsettings.Development.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\appsettings.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.exe
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.deps.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.runtimeconfig.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.pdb
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Azure.Core.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Azure.Identity.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Memory.Data.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.csproj.AssemblyReference.cache
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.GeneratedMSBuildEditorConfig.editorconfig
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.AssemblyInfoInputs.cache
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.AssemblyInfo.cs
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.csproj.CoreCompileInputs.cache
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.MvcApplicationPartsAssemblyInfo.cs
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.MvcApplicationPartsAssemblyInfo.cache
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.build.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.development.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.KIEMTRATHUCHANH.Microsoft.AspNetCore.StaticWebAssets.props
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.build.KIEMTRATHUCHANH.props
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KIEMTRATHUCHANH.props
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KIEMTRATHUCHANH.props
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.pack.json
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\scopedcss\bundle\KIEMTRATHUCHANH.styles.css
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRAT.FB193981.Up2Date
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\refint\KIEMTRATHUCHANH.dll
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.pdb
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.genruntimeconfig.cache
+D:\UDC\KIEMTRATHUCHANH\KIEMTRATHUCHANH\obj\Debug\net8.0\ref\KIEMTRATHUCHANH.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\appsettings.Development.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\appsettings.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.exe
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.deps.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.runtimeconfig.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\KIEMTRATHUCHANH.pdb
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Azure.Core.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Azure.Identity.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.csproj.AssemblyReference.cache
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.AssemblyInfoInputs.cache
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.AssemblyInfo.cs
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.csproj.CoreCompileInputs.cache
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.MvcApplicationPartsAssemblyInfo.cs
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.MvcApplicationPartsAssemblyInfo.cache
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.sourcelink.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.build.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.development.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.KIEMTRATHUCHANH.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.build.KIEMTRATHUCHANH.props
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.KIEMTRATHUCHANH.props
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.KIEMTRATHUCHANH.props
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\scopedcss\bundle\KIEMTRATHUCHANH.styles.css
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.csproj.CopyComplete
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\refint\KIEMTRATHUCHANH.dll
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.pdb
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\KIEMTRATHUCHANH.genruntimeconfig.cache
+D:\Code\Bài tập\Kiem_tra_thuc_hanh\KIEMTRATHUCHANH\obj\Debug\net8.0\ref\KIEMTRATHUCHANH.dll

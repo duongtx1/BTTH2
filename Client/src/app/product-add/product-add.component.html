@@ -1,0 +1,51 @@
+<h2 class="font-mono text-xl font-normal text-gray-900 ml-44">Thêm sản phẩm</h2>
+<div class="grid gap-6 mb-6 md:grid-cols-2">
+  <div>
+    <label for="tieu_de" class="block mb-2 ml-5 text-sm font-medium text-gray-900">Tên</label>
+    <input type="text" id="tieu_de"
+           [(ngModel)]="newProduct.productName"
+           class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5  "
+           placeholder="Nhập tên sản phẩm" required/>
+  </div>
+</div>
+<div class="mb-6">
+  <label for="noi_dung" class="block mb-2 ml-5 text-sm font-medium text-gray-900 dark:text-white">Đơn giá</label>
+  <textarea id="noi_dung"
+            [(ngModel)]="newProduct.unitPrice"
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
+            placeholder="Đơn giá sản phẩm" required></textarea>
+</div>
+<!-- <div class="mb-6">
+  <label for="attach_file" class="block mb-2 ml-5 text-sm font-medium text-gray-900 dark:text-white">Hình ảnh đính
+    kèm</label>
+  <input [(ngModel)]="newProduct.picture" type="file" id="attach_file"
+         class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
+         placeholder="Doe" required/>
+</div> -->
+<div class="mb-6">
+  <label for="noi_dung" class="block mb-2 ml-5 text-sm font-medium text-gray-900 dark:text-white">Thể loại</label>
+  <textarea id="noi_dung"
+            [(ngModel)]="newProduct.category"
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
+            placeholder="Thể loại sản phẩm" required></textarea>
+</div>
+<div class="mb-6">
+  <label for="noi_dung" class="block mb-2 ml-5 text-sm font-medium text-gray-900 dark:text-white">Mô tả</label>
+  <textarea id="noi_dung"
+            [(ngModel)]="newProduct.description"
+            class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 "
+            placeholder="Mô tả sản phẩm" required></textarea>
+</div>
+<div class="flex flex-row justify-end gap-5">
+  <button type="button"
+          (click)="handleDelete()"
+          class="focus:outline-none text-white bg-red-700 hover:bg-red-800 focus:ring-4 focus:ring-red-300 font-medium rounded-2xl text-sm px-5 py-2.5 me-2 mb-2 ">
+    Huỷ
+  </button>
+  <button type="button"
+          (click)="handleSendProduct()"
+          class="focus:outline-none text-white bg-cyan-400 hover:bg-cyan-700 focus:ring-4 focus:ring-cyan-300 font-medium rounded-2xl text-sm px-5 py-2.5 me-2 mb-2">
+    Gửi
+  </button>
+
+</div>

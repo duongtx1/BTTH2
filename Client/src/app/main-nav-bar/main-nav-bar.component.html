@@ -1,0 +1,21 @@
+<!-- SIDEBAR -->
+<section id="sidebar" [ngClass]="status ? 'hidden' : 'block'" class="bg-gray-800 h-[1100px] p-4 space-y-4" class="w-64 h-screen bg-green-800 text-white p-4">
+  <a routerLink="/admin" class="flex items-center space-x-2 text-white text-lg font-semibold">
+    <i class='bx bxs-smile'></i>
+    <span>AdminHub</span>
+  </a>
+  <ul class="space-y-4">
+    <!-- Dashboard Tab -->
+    <li >
+      <div routerLink="/admin"  class="flex items-center p-3 text-white hover:bg-gray-700 rounded-lg">
+        <p class="ml-3">Dashboard</p>
+      </div>
+    </li>
+    <!-- My Store Tab -->
+    <li >
+      <div routerLink="/store" class="flex items-center p-3 text-white hover:bg-gray-700 rounded-lg">
+        <p class="ml-3">Home</p>
+      </div>
+    </li>
+  </ul>
+</section>

@@ -1,0 +1,124 @@
+<!-- MAIN -->
+<section id="content">
+  <main>
+    <!-- Header -->
+    <div class="flex justify-between items-center mb-6">
+      <div>
+        <h1 class="text-3xl font-semibold">Admin Dashboard: Quản trị hệ thống</h1>
+        <ul class="flex items-center text-gray-600 space-x-2">
+          <li>
+            <a class="text-blue-500 hover:text-blue-700">Dashboard</a>
+          </li>
+          <li>
+            <i class='bx bx-chevron-right'></i>
+          </li>
+          <li>
+            <a class="text-gray-400">Home</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Summary Cards -->
+    <ul class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-6">
+      <li class="flex items-center bg-white shadow rounded-lg p-4">
+        <i class='bx bxs-calendar-check text-4xl text-blue-500'></i>
+        <div class="ml-4">
+          <h3 class="text-xl font-semibold">{{ totalOfProduct }}</h3>
+          <p class="text-gray-600">Tổng sản phẩm</p>
+        </div>
+      </li>
+      <li class="flex items-center bg-white shadow rounded-lg p-4">
+        <i class='bx bxs-group text-4xl text-blue-500'></i>
+        <div class="ml-4">
+          <h3 class="text-xl font-semibold">0</h3>
+          <p class="text-gray-600">Sản phẩm đã bán</p>
+        </div>
+      </li>
+      <li class="flex items-center bg-white shadow rounded-lg p-4">
+        <i class='bx bxs-dollar-circle text-4xl text-blue-500'></i>
+        <div class="ml-4">
+          <h3 class="text-xl font-semibold">0</h3>
+          <p class="text-gray-600">Lợi nhuận</p>
+        </div>
+      </li>
+    </ul>
+
+    <!-- Management Sections -->
+    <!-- Product Management -->
+    <div class="bg-white shadow rounded-lg p-6 mb-6">
+      <div class="flex justify-between items-center mb-4">
+        <h2 class="text-2xl font-semibold">Quản lý hàng hóa</h2>
+        <button class="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-blue-700"
+                (click)="openAddProductDialog()">+ Thêm sản phẩm</button>
+      </div>
+
+      <!-- Product Table -->
+      <mat-paginator [length]="totalOfProduct"
+      [pageSize]="pageSize"
+      (page)="handleProductPage($event)"
+      >
+</mat-paginator>
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr>
+            <th class="border-b p-4">ID</th>
+            <th class="border-b p-4">Tên sản phẩm</th>
+            <th class="border-b p-4">Đơn giá</th>
+            <th class="border-b p-4">Hành động</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let product of this.productLst">
+            <td class="border-b p-4">{{ product.id }}</td>
+            <td class="border-b p-4">{{ product.productName }}</td>
+            <td class="border-b p-4">{{ product.unitPrice }} VND</td>
+            <!-- <td class="border-b p-4">
+              <img [src]="product.picture" alt="Product Image" class="w-16 h-16 rounded-lg" />
+            </td> -->
+            <td class="border-b p-4">
+              <button class="text-blue-500 hover:underline" (click)="openEditProductDialog(product)">Sửa</button>
+              <button class="text-red-500 hover:underline ml-2" (click)="handleDeleteProduct(product)">Xóa</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- User Management -->
+    <div class="bg-white shadow rounded-lg p-6">
+      <div class="flex justify-between items-center mb-4">
+        <h2 class="text-2xl font-semibold">Quản lý người dùng</h2>
+      </div>
+      <mat-paginator [length]="totalOfUser"
+      [pageSize]="pageSize"
+      (page)="handleUserPage($event)"
+      >
+</mat-paginator>
+      <!-- User Table -->
+      <table class="w-full text-left border-collapse">
+        <thead>
+          <tr >
+            <th class="border-b p-4">User ID</th>
+            <th class="border-b p-4">Tên người dùng</th>
+            <th class="border-b p-4">Email</th>
+            <th class="border-b p-4">Số điẹn thoại</th>
+            <th class="border-b p-4">Hành động</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let user of userLst">
+            <td class="border-b p-4">{{ user.id }}</td>
+            <td class="border-b p-4">{{ user.username }}</td>
+            <td class="border-b p-4">{{ user.email }}</td>
+            <td class="border-b p-4">{{ user.phone }}</td>
+            <td class="border-b p-4">
+              <button class="text-blue-500 hover:underline" >Sửa</button>
+              <button class="text-red-500 hover:underline ml-2" >Xóa</button>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </main>
+</section>
